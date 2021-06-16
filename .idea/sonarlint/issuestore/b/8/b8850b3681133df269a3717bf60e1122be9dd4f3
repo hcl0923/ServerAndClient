@@ -1,0 +1,11 @@
+
+r
+java:S1104"PMake port a static final constant or non-public and provide accessors if needed.(ö÷şüÿÿÿÿ8êûî¼ó.
+c
+java:S2259""AA "NullPointerException" could be thrown; "dos" is nullable here.(‚ùûÿÿÿÿ8·’ñ¼ó.
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ8«—½ó.
+L
+java:S1444"*Make this "public static port" field final(ö÷şüÿÿÿÿ8êûî¼ó.
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8·’ñ¼ó.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ê„É‘ıÿÿÿÿ8¢áş¼ó.
